@@ -35,27 +35,29 @@ hr {
 /* .....................top div classes................... */
 .cloud1 {
   position: relative;
-  left: 400px;
-  top: 50px;
+  left: 16rem;
+  top: 3.125rem;
   width: 15%;
 }
 
 .cloud2 {
   position: relative;
-  bottom: 450px;
-  left: 300px;
+  bottom: 28.125rem;
+  left: 5.75rem;
   width: 12%;
 }
 
 .cloud3 {
   position: relative;
-  bottom: 250px;
-  right: 500px;
+  bottom: 15.625rem;
+  right: -18.25rem;
   width: 9%
 }
 
 .mountain {
   display: inline-block;
+  position: relative;
+  right: 10rem;
 }
 
 .noob {

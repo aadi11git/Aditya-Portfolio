@@ -85,7 +85,7 @@ hr {
 
 .para1 {
   color: #40514E;
-  width: 40%;
+  width: 50%;
   font-size: 1.4rem;
   margin: auto;
 }
@@ -121,6 +121,7 @@ hr {
   width: 50%;
   margin: 0 auto 25px;
   line-height: 2;
+  font-size: 150%;
 }
 .h3-1{
 color: #66BFBF;

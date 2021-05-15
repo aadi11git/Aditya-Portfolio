@@ -41,14 +41,14 @@ hr {
 }
 
 .cloud2 {
-  position: absolute;
+  position: relative;
   bottom: 450px;
   left: 300px;
   width: 12%;
 }
 
 .cloud3 {
-  position: absolute;
+  position: relative;
   bottom: 250px;
   right: 500px;
   width: 9%
